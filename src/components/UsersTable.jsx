@@ -4,8 +4,8 @@ import UserProfile from './UserProfile';
 
 const initialUsers = [
   { id: 1, name: "Gungun", role: "Admin", email: "gungun@email.com", status: "Active", joinDate: "2024-01-15" },
-  { id: 2, name: "Ayush Jha", role: "User", email: "ayush@email.com", status: "Active", joinDate: "2024-03-22" },
-  { id: 3, name: "Love Porwal", role: "User", email: "loveporwal@email.com", status: "Active", joinDate: "2024-03-22" },
+  { id: 2, name: "Love Porwal", role: "User", email: "loveporwal@email.com", status: "Active", joinDate: "2024-03-22" },
+  { id: 3, name: "Jhon ketos", role: "User", email: "Jhonketos@email.com", status: "Active", joinDate: "2024-03-22" },
   { id: 4, name: "Rahul Verma", role: "Moderator", email: "rahul@adminx.com", status: "Inactive", joinDate: "2023-11-10" },
   { id: 5, name: "Neha Gupta", role: "User", email: "neha@email.com", status: "Active", joinDate: "2024-02-05" },
 ];
